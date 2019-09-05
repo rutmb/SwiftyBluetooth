@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.source_files = 'SwiftyBluetooth/Source/*.swift'
   s.requires_arc = true
   s.ios.deployment_target = '9.0'
-  s.watchos.deployment_target = '5.0'
+  s.watchos.deployment_target = '4.0'
 
 end
